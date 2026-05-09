@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+catboost
+lightgbm
+joblib
+matplotlib
+scipy
+skl2onnx
+onnxmltools
+onnxruntime
+onnx
+optuna
+ijson

@@ -1,0 +1,140 @@
+{
+  "timestamp": "2026-05-04",
+  "model": "Logistic Regression",
+  "features": {
+    "amount_normalized": {
+      "index": 0,
+      "weight": 1.395724177360535,
+      "abs_weight": 1.395724177360535,
+      "contribution_pct": 10.319322306004251,
+      "category": "STRONG"
+    },
+    "installments_normalized": {
+      "index": 1,
+      "weight": 1.344075083732605,
+      "abs_weight": 1.344075083732605,
+      "contribution_pct": 9.937453414854476,
+      "category": "STRONG"
+    },
+    "amount_vs_customer_avg": {
+      "index": 2,
+      "weight": 0.4067320823669434,
+      "abs_weight": 0.4067320823669434,
+      "contribution_pct": 3.0071840254813917,
+      "category": "MEDIUM"
+    },
+    "hour_of_day": {
+      "index": 3,
+      "weight": -0.06080102548003197,
+      "abs_weight": 0.06080102548003197,
+      "contribution_pct": 0.44953393273630593,
+      "category": "WEAK"
+    },
+    "day_of_week": {
+      "index": 4,
+      "weight": -0.001381704001687467,
+      "abs_weight": 0.001381704001687467,
+      "contribution_pct": 0.01021566377955328,
+      "category": "WEAK"
+    },
+    "minutes_since_last_tx": {
+      "index": 5,
+      "weight": -3.225100517272949,
+      "abs_weight": 3.225100517272949,
+      "contribution_pct": 23.84486293698679,
+      "category": "STRONG"
+    },
+    "km_from_last_tx": {
+      "index": 6,
+      "weight": 3.472514152526855,
+      "abs_weight": 3.472514152526855,
+      "contribution_pct": 25.674121960007724,
+      "category": "STRONG"
+    },
+    "km_from_home": {
+      "index": 7,
+      "weight": 1.362916707992554,
+      "abs_weight": 1.362916707992554,
+      "contribution_pct": 10.076759444413078,
+      "category": "STRONG"
+    },
+    "tx_count_24h": {
+      "index": 8,
+      "weight": 1.2114098072052,
+      "abs_weight": 1.2114098072052,
+      "contribution_pct": 8.95658930896041,
+      "category": "STRONG"
+    },
+    "is_online": {
+      "index": 9,
+      "weight": 0.06824566423892975,
+      "abs_weight": 0.06824566423892975,
+      "contribution_pct": 0.5045760592903644,
+      "category": "WEAK"
+    },
+    "card_present": {
+      "index": 10,
+      "weight": -0.0232835840433836,
+      "abs_weight": 0.0232835840433836,
+      "contribution_pct": 0.17214777251834318,
+      "category": "WEAK"
+    },
+    "merchant_is_known": {
+      "index": 11,
+      "weight": 0.2735289335250854,
+      "abs_weight": 0.2735289335250854,
+      "contribution_pct": 2.0223431469109263,
+      "category": "MEDIUM"
+    },
+    "merchant_mcc_risk": {
+      "index": 12,
+      "weight": 0.3037384748458862,
+      "abs_weight": 0.3037384748458862,
+      "contribution_pct": 2.24569816122001,
+      "category": "MEDIUM"
+    },
+    "merchant_avg_amount": {
+      "index": 13,
+      "weight": -0.3758953511714935,
+      "abs_weight": 0.3758953511714935,
+      "contribution_pct": 2.7791918668363786,
+      "category": "MEDIUM"
+    }
+  },
+  "recommendations": {
+    "strong_features": [
+      "km_from_last_tx",
+      "minutes_since_last_tx",
+      "amount_normalized",
+      "km_from_home",
+      "installments_normalized",
+      "tx_count_24h"
+    ],
+    "medium_features": [
+      "amount_vs_customer_avg",
+      "merchant_avg_amount",
+      "merchant_mcc_risk",
+      "merchant_is_known"
+    ],
+    "weak_features": [
+      "is_online",
+      "hour_of_day",
+      "card_present",
+      "day_of_week"
+    ],
+    "remove_candidates": [
+      "hour_of_day",
+      "day_of_week",
+      "is_online",
+      "card_present"
+    ],
+    "engineering_candidates": [
+      "km_from_last_tx",
+      "minutes_since_last_tx",
+      "amount_normalized",
+      "km_from_home",
+      "installments_normalized",
+      "tx_count_24h"
+    ]
+  }
+}

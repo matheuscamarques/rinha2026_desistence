@@ -1,0 +1,14 @@
+{
+  "max_amount": 10000,
+  "max_installments": 12,
+  "amount_vs_avg_ratio": 10,
+  "max_minutes": 1440,
+  "max_km": 1000,
+  "max_tx_count_24h": 20,
+  "max_merchant_avg_amount": 10000,
+  "_comment_v2": "Added v2 feature engineering (5 new features)",
+  "max_tx_speed_km_min": 100,
+  "max_log_tx_speed": 5.0,
+  "max_log_amount": 10.0,
+  "_note_hour_sin_cos": "Cyclic encoding: normalized to [0, 1] from sin/cos [-1, 1]"
+}

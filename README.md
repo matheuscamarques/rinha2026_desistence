@@ -1,3 +1,6 @@
+# rinha2026_desistence
+# all the code genartes with LLM's  I wont exped why some people understand theese things.
+
 # Training and inference helper
 
 This workspace includes helper scripts to train classical ML models from the internal binary dataset and run inference.
@@ -40,4 +43,4 @@ Notes
 
 - ONNX export requires `skl2onnx` (for sklearn pipeline) and `onnxmltools` (for LightGBM). If those packages are not available, the export step is skipped but models are saved in `joblib` / LightGBM text format.
 - For production C integration consider exporting an ONNX model and using the ONNX Runtime C API; ask me and I can add a minimal C example.
-# rinha2026_desistence
+

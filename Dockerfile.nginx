@@ -1,0 +1,9 @@
+FROM alpine:latest
+
+RUN apk add --no-cache nginx
+
+RUN mkdir -p /var/run/nginx
+
+EXPOSE 9999
+
+CMD ["nginx", "-g", "daemon off;"]

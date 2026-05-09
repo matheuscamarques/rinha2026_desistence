@@ -1,0 +1,996 @@
+{
+  "best_threshold": 0.01,
+  "best_score": 580.4813828751065,
+  "all_results": [
+    {
+      "threshold": 0.01,
+      "TP": 3588,
+      "TN": 6446,
+      "FP": 786,
+      "FN": 0,
+      "failure_rate": 0.07264325323475046,
+      "detection_score": 230.48138287510653,
+      "final_score": 580.4813828751065
+    },
+    {
+      "threshold": 0.02,
+      "TP": 3588,
+      "TN": 6892,
+      "FP": 340,
+      "FN": 0,
+      "failure_rate": 0.031423290203327174,
+      "detection_score": 112.84045314591334,
+      "final_score": 462.84045314591333
+    },
+    {
+      "threshold": 0.03,
+      "TP": 3588,
+      "TN": 6995,
+      "FP": 237,
+      "FN": 0,
+      "failure_rate": 0.021903881700554528,
+      "detection_score": 80.5452641021432,
+      "final_score": 430.54526410214316
+    },
+    {
+      "threshold": 0.04,
+      "TP": 3588,
+      "TN": 7018,
+      "FP": 214,
+      "FN": 0,
+      "failure_rate": 0.01977818853974122,
+      "detection_score": 73.00710273589627,
+      "final_score": 423.0071027358963
+    },
+    {
+      "threshold": 0.05,
+      "TP": 3588,
+      "TN": 7019,
+      "FP": 213,
+      "FN": 0,
+      "failure_rate": 0.01968576709796673,
+      "detection_score": 72.67653163169813,
+      "final_score": 422.67653163169814
+    },
+    {
+      "threshold": 0.06,
+      "TP": 3588,
+      "TN": 7021,
+      "FP": 211,
+      "FN": 0,
+      "failure_rate": 0.019500924214417743,
+      "detection_score": 72.01467783517136,
+      "final_score": 422.01467783517137
+    },
+    {
+      "threshold": 0.07,
+      "TP": 3588,
+      "TN": 7021,
+      "FP": 211,
+      "FN": 0,
+      "failure_rate": 0.019500924214417743,
+      "detection_score": 72.01467783517136,
+      "final_score": 422.01467783517137
+    },
+    {
+      "threshold": 0.08,
+      "TP": 3588,
+      "TN": 7022,
+      "FP": 210,
+      "FN": 0,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 71.68339475503859,
+      "final_score": 421.6833947550386
+    },
+    {
+      "threshold": 0.09,
+      "TP": 3588,
+      "TN": 7022,
+      "FP": 210,
+      "FN": 0,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 71.68339475503859,
+      "final_score": 421.6833947550386
+    },
+    {
+      "threshold": 0.1,
+      "TP": 3588,
+      "TN": 7022,
+      "FP": 210,
+      "FN": 0,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 71.68339475503859,
+      "final_score": 421.6833947550386
+    },
+    {
+      "threshold": 0.11,
+      "TP": 3588,
+      "TN": 7022,
+      "FP": 210,
+      "FN": 0,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 71.68339475503859,
+      "final_score": 421.6833947550386
+    },
+    {
+      "threshold": 0.12,
+      "TP": 3588,
+      "TN": 7022,
+      "FP": 210,
+      "FN": 0,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 71.68339475503859,
+      "final_score": 421.6833947550386
+    },
+    {
+      "threshold": 0.13,
+      "TP": 3588,
+      "TN": 7023,
+      "FP": 209,
+      "FN": 0,
+      "failure_rate": 0.019316081330868762,
+      "detection_score": 71.35187396515225,
+      "final_score": 421.35187396515227
+    },
+    {
+      "threshold": 0.14,
+      "TP": 3587,
+      "TN": 7023,
+      "FP": 209,
+      "FN": 1,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 72.34572339642153,
+      "final_score": 422.34572339642153
+    },
+    {
+      "threshold": 0.15,
+      "TP": 3587,
+      "TN": 7025,
+      "FP": 207,
+      "FN": 1,
+      "failure_rate": 0.01922365988909427,
+      "detection_score": 71.68339475503859,
+      "final_score": 421.6833947550386
+    },
+    {
+      "threshold": 0.16,
+      "TP": 3587,
+      "TN": 7025,
+      "FP": 207,
+      "FN": 1,
+      "failure_rate": 0.01922365988909427,
+      "detection_score": 71.68339475503859,
+      "final_score": 421.6833947550386
+    },
+    {
+      "threshold": 0.17,
+      "TP": 3586,
+      "TN": 7027,
+      "FP": 205,
+      "FN": 2,
+      "failure_rate": 0.019131238447319777,
+      "detection_score": 72.01467783517136,
+      "final_score": 422.01467783517137
+    },
+    {
+      "threshold": 0.18,
+      "TP": 3585,
+      "TN": 7027,
+      "FP": 205,
+      "FN": 3,
+      "failure_rate": 0.01922365988909427,
+      "detection_score": 73.00710273589627,
+      "final_score": 423.0071027358963
+    },
+    {
+      "threshold": 0.19,
+      "TP": 3584,
+      "TN": 7028,
+      "FP": 204,
+      "FN": 4,
+      "failure_rate": 0.01922365988909427,
+      "detection_score": 73.66753434025937,
+      "final_score": 423.66753434025935
+    },
+    {
+      "threshold": 0.2,
+      "TP": 3582,
+      "TN": 7029,
+      "FP": 203,
+      "FN": 6,
+      "failure_rate": 0.019316081330868762,
+      "detection_score": 75.31447756016179,
+      "final_score": 425.3144775601618
+    },
+    {
+      "threshold": 0.21,
+      "TP": 3581,
+      "TN": 7029,
+      "FP": 203,
+      "FN": 7,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 76.29981576630006,
+      "final_score": 426.29981576630007
+    },
+    {
+      "threshold": 0.22,
+      "TP": 3581,
+      "TN": 7029,
+      "FP": 203,
+      "FN": 7,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 76.29981576630006,
+      "final_score": 426.29981576630007
+    },
+    {
+      "threshold": 0.23,
+      "TP": 3581,
+      "TN": 7029,
+      "FP": 203,
+      "FN": 7,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 76.29981576630006,
+      "final_score": 426.29981576630007
+    },
+    {
+      "threshold": 0.24,
+      "TP": 3581,
+      "TN": 7029,
+      "FP": 203,
+      "FN": 7,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 76.29981576630006,
+      "final_score": 426.29981576630007
+    },
+    {
+      "threshold": 0.25,
+      "TP": 3581,
+      "TN": 7029,
+      "FP": 203,
+      "FN": 7,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 76.29981576630006,
+      "final_score": 426.29981576630007
+    },
+    {
+      "threshold": 0.26,
+      "TP": 3580,
+      "TN": 7033,
+      "FP": 199,
+      "FN": 8,
+      "failure_rate": 0.019131238447319777,
+      "detection_score": 75.9716048518941,
+      "final_score": 425.9716048518941
+    },
+    {
+      "threshold": 0.27,
+      "TP": 3580,
+      "TN": 7036,
+      "FP": 196,
+      "FN": 8,
+      "failure_rate": 0.018853974121996304,
+      "detection_score": 74.98556076010473,
+      "final_score": 424.9855607601047
+    },
+    {
+      "threshold": 0.28,
+      "TP": 3579,
+      "TN": 7037,
+      "FP": 195,
+      "FN": 9,
+      "failure_rate": 0.018853974121996304,
+      "detection_score": 75.64315885389063,
+      "final_score": 425.6431588538906
+    },
+    {
+      "threshold": 0.29,
+      "TP": 3579,
+      "TN": 7037,
+      "FP": 195,
+      "FN": 9,
+      "failure_rate": 0.018853974121996304,
+      "detection_score": 75.64315885389063,
+      "final_score": 425.6431588538906
+    },
+    {
+      "threshold": 0.3,
+      "TP": 3576,
+      "TN": 7038,
+      "FP": 194,
+      "FN": 12,
+      "failure_rate": 0.019038817005545286,
+      "detection_score": 78.26415655856904,
+      "final_score": 428.264156558569
+    },
+    {
+      "threshold": 0.31,
+      "TP": 3574,
+      "TN": 7039,
+      "FP": 193,
+      "FN": 14,
+      "failure_rate": 0.019131238447319777,
+      "detection_score": 79.89468238620756,
+      "final_score": 429.8946823862076
+    },
+    {
+      "threshold": 0.32,
+      "TP": 3573,
+      "TN": 7039,
+      "FP": 193,
+      "FN": 15,
+      "failure_rate": 0.01922365988909427,
+      "detection_score": 80.87020688336767,
+      "final_score": 430.8702068833677
+    },
+    {
+      "threshold": 0.33,
+      "TP": 3573,
+      "TN": 7040,
+      "FP": 192,
+      "FN": 15,
+      "failure_rate": 0.019131238447319777,
+      "detection_score": 80.5452641021432,
+      "final_score": 430.54526410214316
+    },
+    {
+      "threshold": 0.34,
+      "TP": 3572,
+      "TN": 7042,
+      "FP": 190,
+      "FN": 16,
+      "failure_rate": 0.019038817005545286,
+      "detection_score": 80.87020688336767,
+      "final_score": 430.8702068833677
+    },
+    {
+      "threshold": 0.35,
+      "TP": 3572,
+      "TN": 7045,
+      "FP": 187,
+      "FN": 16,
+      "failure_rate": 0.01876155268022181,
+      "detection_score": 79.89468238620756,
+      "final_score": 429.8946823862076
+    },
+    {
+      "threshold": 0.36,
+      "TP": 3571,
+      "TN": 7045,
+      "FP": 187,
+      "FN": 17,
+      "failure_rate": 0.018853974121996304,
+      "detection_score": 80.87020688336767,
+      "final_score": 430.8702068833677
+    },
+    {
+      "threshold": 0.37,
+      "TP": 3568,
+      "TN": 7047,
+      "FP": 185,
+      "FN": 20,
+      "failure_rate": 0.018946395563770795,
+      "detection_score": 83.13833055795256,
+      "final_score": 433.13833055795254
+    },
+    {
+      "threshold": 0.38,
+      "TP": 3568,
+      "TN": 7048,
+      "FP": 184,
+      "FN": 20,
+      "failure_rate": 0.018853974121996304,
+      "detection_score": 82.81500508765896,
+      "final_score": 432.81500508765896
+    },
+    {
+      "threshold": 0.39,
+      "TP": 3567,
+      "TN": 7051,
+      "FP": 181,
+      "FN": 21,
+      "failure_rate": 0.01866913123844732,
+      "detection_score": 82.81500508765896,
+      "final_score": 432.81500508765896
+    },
+    {
+      "threshold": 0.4,
+      "TP": 3565,
+      "TN": 7053,
+      "FP": 179,
+      "FN": 23,
+      "failure_rate": 0.01866913123844732,
+      "detection_score": 84.10692730007047,
+      "final_score": 434.1069273000705
+    },
+    {
+      "threshold": 0.41,
+      "TP": 3563,
+      "TN": 7056,
+      "FP": 176,
+      "FN": 25,
+      "failure_rate": 0.01857670979667283,
+      "detection_score": 85.07345955579713,
+      "final_score": 435.0734595557971
+    },
+    {
+      "threshold": 0.42,
+      "TP": 3562,
+      "TN": 7056,
+      "FP": 176,
+      "FN": 26,
+      "failure_rate": 0.01866913123844732,
+      "detection_score": 86.03793382381782,
+      "final_score": 436.0379338238178
+    },
+    {
+      "threshold": 0.43,
+      "TP": 3560,
+      "TN": 7057,
+      "FP": 175,
+      "FN": 28,
+      "failure_rate": 0.01876155268022181,
+      "detection_score": 87.64083545003277,
+      "final_score": 437.6408354500328
+    },
+    {
+      "threshold": 0.44,
+      "TP": 3557,
+      "TN": 7060,
+      "FP": 172,
+      "FN": 31,
+      "failure_rate": 0.01876155268022181,
+      "detection_score": 89.55683864365331,
+      "final_score": 439.5568386436533
+    },
+    {
+      "threshold": 0.45,
+      "TP": 3555,
+      "TN": 7061,
+      "FP": 171,
+      "FN": 33,
+      "failure_rate": 0.018853974121996304,
+      "detection_score": 91.14731201418681,
+      "final_score": 441.1473120141868
+    },
+    {
+      "threshold": 0.46,
+      "TP": 3553,
+      "TN": 7063,
+      "FP": 169,
+      "FN": 35,
+      "failure_rate": 0.018853974121996304,
+      "detection_score": 92.4156576628273,
+      "final_score": 442.4156576628273
+    },
+    {
+      "threshold": 0.47,
+      "TP": 3551,
+      "TN": 7066,
+      "FP": 166,
+      "FN": 37,
+      "failure_rate": 0.01876155268022181,
+      "detection_score": 93.36457484825304,
+      "final_score": 443.364574848253
+    },
+    {
+      "threshold": 0.48,
+      "TP": 3550,
+      "TN": 7067,
+      "FP": 165,
+      "FN": 38,
+      "failure_rate": 0.01876155268022181,
+      "detection_score": 93.99607482961481,
+      "final_score": 443.9960748296148
+    },
+    {
+      "threshold": 0.49,
+      "TP": 3547,
+      "TN": 7068,
+      "FP": 164,
+      "FN": 41,
+      "failure_rate": 0.018946395563770795,
+      "detection_score": 96.51322688330339,
+      "final_score": 446.5132268833034
+    },
+    {
+      "threshold": 0.5,
+      "TP": 3544,
+      "TN": 7071,
+      "FP": 161,
+      "FN": 44,
+      "failure_rate": 0.018946395563770795,
+      "detection_score": 98.39185762839213,
+      "final_score": 448.39185762839213
+    },
+    {
+      "threshold": 0.51,
+      "TP": 3543,
+      "TN": 7074,
+      "FP": 158,
+      "FN": 45,
+      "failure_rate": 0.01876155268022181,
+      "detection_score": 98.39185762839213,
+      "final_score": 448.39185762839213
+    },
+    {
+      "threshold": 0.52,
+      "TP": 3539,
+      "TN": 7075,
+      "FP": 157,
+      "FN": 49,
+      "failure_rate": 0.019038817005545286,
+      "detection_score": 101.81565772862989,
+      "final_score": 451.8156577286299
+    },
+    {
+      "threshold": 0.53,
+      "TP": 3537,
+      "TN": 7080,
+      "FP": 152,
+      "FN": 51,
+      "failure_rate": 0.01876155268022181,
+      "detection_score": 102.12561520078181,
+      "final_score": 452.1256152007818
+    },
+    {
+      "threshold": 0.54,
+      "TP": 3533,
+      "TN": 7084,
+      "FP": 148,
+      "FN": 55,
+      "failure_rate": 0.01876155268022181,
+      "detection_score": 104.59755385315746,
+      "final_score": 454.5975538531575
+    },
+    {
+      "threshold": 0.55,
+      "TP": 3527,
+      "TN": 7084,
+      "FP": 148,
+      "FN": 61,
+      "failure_rate": 0.019316081330868762,
+      "detection_score": 110.10976610909147,
+      "final_score": 460.1097661090915
+    },
+    {
+      "threshold": 0.56,
+      "TP": 3525,
+      "TN": 7085,
+      "FP": 147,
+      "FN": 63,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 111.62888714614473,
+      "final_score": 461.62888714614473
+    },
+    {
+      "threshold": 0.57,
+      "TP": 3522,
+      "TN": 7086,
+      "FP": 146,
+      "FN": 66,
+      "failure_rate": 0.019593345656192238,
+      "detection_score": 114.04872032826478,
+      "final_score": 464.0487203282648
+    },
+    {
+      "threshold": 0.58,
+      "TP": 3518,
+      "TN": 7092,
+      "FP": 140,
+      "FN": 70,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 115.85497097782022,
+      "final_score": 465.85497097782024
+    },
+    {
+      "threshold": 0.59,
+      "TP": 3516,
+      "TN": 7094,
+      "FP": 138,
+      "FN": 72,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 117.05506134625547,
+      "final_score": 467.05506134625546
+    },
+    {
+      "threshold": 0.6,
+      "TP": 3512,
+      "TN": 7097,
+      "FP": 135,
+      "FN": 76,
+      "failure_rate": 0.019500924214417743,
+      "detection_score": 119.74343245437925,
+      "final_score": 469.7434324543792
+    },
+    {
+      "threshold": 0.61,
+      "TP": 3508,
+      "TN": 7100,
+      "FP": 132,
+      "FN": 80,
+      "failure_rate": 0.019593345656192238,
+      "detection_score": 122.41556733282457,
+      "final_score": 472.4155673328246
+    },
+    {
+      "threshold": 0.62,
+      "TP": 3502,
+      "TN": 7101,
+      "FP": 131,
+      "FN": 86,
+      "failure_rate": 0.020055452865064695,
+      "detection_score": 127.4192652178558,
+      "final_score": 477.4192652178558
+    },
+    {
+      "threshold": 0.63,
+      "TP": 3499,
+      "TN": 7105,
+      "FP": 127,
+      "FN": 89,
+      "failure_rate": 0.019963031423290204,
+      "detection_score": 128.88021095157097,
+      "final_score": 478.880210951571
+    },
+    {
+      "threshold": 0.64,
+      "TP": 3496,
+      "TN": 7109,
+      "FP": 123,
+      "FN": 92,
+      "failure_rate": 0.019870609981515713,
+      "detection_score": 130.33633320354983,
+      "final_score": 480.3363332035498
+    },
+    {
+      "threshold": 0.65,
+      "TP": 3495,
+      "TN": 7112,
+      "FP": 120,
+      "FN": 93,
+      "failure_rate": 0.01968576709796673,
+      "detection_score": 130.33633320354983,
+      "final_score": 480.3363332035498
+    },
+    {
+      "threshold": 0.66,
+      "TP": 3493,
+      "TN": 7116,
+      "FP": 116,
+      "FN": 95,
+      "failure_rate": 0.019500924214417743,
+      "detection_score": 130.91743816921235,
+      "final_score": 480.91743816921235
+    },
+    {
+      "threshold": 0.67,
+      "TP": 3488,
+      "TN": 7124,
+      "FP": 108,
+      "FN": 100,
+      "failure_rate": 0.01922365988909427,
+      "detection_score": 132.94529248568057,
+      "final_score": 482.94529248568057
+    },
+    {
+      "threshold": 0.68,
+      "TP": 3486,
+      "TN": 7125,
+      "FP": 107,
+      "FN": 102,
+      "failure_rate": 0.019316081330868762,
+      "detection_score": 134.38806591607252,
+      "final_score": 484.3880659160725
+    },
+    {
+      "threshold": 0.69,
+      "TP": 3481,
+      "TN": 7127,
+      "FP": 105,
+      "FN": 107,
+      "failure_rate": 0.019593345656192238,
+      "detection_score": 138.11729674997594,
+      "final_score": 488.11729674997594
+    },
+    {
+      "threshold": 0.7,
+      "TP": 3479,
+      "TN": 7129,
+      "FP": 103,
+      "FN": 109,
+      "failure_rate": 0.019593345656192238,
+      "detection_score": 139.25842230453335,
+      "final_score": 489.2584223045334
+    },
+    {
+      "threshold": 0.71,
+      "TP": 3476,
+      "TN": 7130,
+      "FP": 102,
+      "FN": 112,
+      "failure_rate": 0.01977818853974122,
+      "detection_score": 141.53182776114673,
+      "final_score": 491.5318277611467
+    },
+    {
+      "threshold": 0.72,
+      "TP": 3472,
+      "TN": 7130,
+      "FP": 102,
+      "FN": 116,
+      "failure_rate": 0.020147874306839186,
+      "detection_score": 144.9200371865318,
+      "final_score": 494.9200371865318
+    },
+    {
+      "threshold": 0.73,
+      "TP": 3470,
+      "TN": 7136,
+      "FP": 96,
+      "FN": 118,
+      "failure_rate": 0.01977818853974122,
+      "detection_score": 144.9200371865318,
+      "final_score": 494.9200371865318
+    },
+    {
+      "threshold": 0.74,
+      "TP": 3465,
+      "TN": 7138,
+      "FP": 94,
+      "FN": 123,
+      "failure_rate": 0.020055452865064695,
+      "detection_score": 148.56133843807655,
+      "final_score": 498.5613384380765
+    },
+    {
+      "threshold": 0.75,
+      "TP": 3464,
+      "TN": 7142,
+      "FP": 90,
+      "FN": 124,
+      "failure_rate": 0.01977818853974122,
+      "detection_score": 148.28230817508052,
+      "final_score": 498.2823081750805
+    },
+    {
+      "threshold": 0.76,
+      "TP": 3457,
+      "TN": 7145,
+      "FP": 87,
+      "FN": 131,
+      "failure_rate": 0.020147874306839186,
+      "detection_score": 153.27790150062518,
+      "final_score": 503.27790150062515
+    },
+    {
+      "threshold": 0.77,
+      "TP": 3453,
+      "TN": 7149,
+      "FP": 83,
+      "FN": 135,
+      "failure_rate": 0.020147874306839186,
+      "detection_score": 155.4800291492082,
+      "final_score": 505.48002914920824
+    },
+    {
+      "threshold": 0.78,
+      "TP": 3448,
+      "TN": 7155,
+      "FP": 77,
+      "FN": 140,
+      "failure_rate": 0.020055452865064695,
+      "detection_score": 157.94426916071893,
+      "final_score": 507.94426916071893
+    },
+    {
+      "threshold": 0.79,
+      "TP": 3443,
+      "TN": 7158,
+      "FP": 74,
+      "FN": 145,
+      "failure_rate": 0.02024029574861368,
+      "detection_score": 161.20850815031255,
+      "final_score": 511.2085081503126
+    },
+    {
+      "threshold": 0.8,
+      "TP": 3440,
+      "TN": 7163,
+      "FP": 69,
+      "FN": 148,
+      "failure_rate": 0.020055452865064695,
+      "detection_score": 162.29120335719418,
+      "final_score": 512.2912033571941
+    },
+    {
+      "threshold": 0.81,
+      "TP": 3439,
+      "TN": 7171,
+      "FP": 61,
+      "FN": 149,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 160.9374155333503,
+      "final_score": 510.9374155333503
+    },
+    {
+      "threshold": 0.82,
+      "TP": 3436,
+      "TN": 7174,
+      "FP": 58,
+      "FN": 152,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 162.56145934349627,
+      "final_score": 512.5614593434963
+    },
+    {
+      "threshold": 0.83,
+      "TP": 3433,
+      "TN": 7176,
+      "FP": 56,
+      "FN": 155,
+      "failure_rate": 0.019500924214417743,
+      "detection_score": 164.44859399571155,
+      "final_score": 514.4485939957116
+    },
+    {
+      "threshold": 0.84,
+      "TP": 3430,
+      "TN": 7184,
+      "FP": 48,
+      "FN": 158,
+      "failure_rate": 0.019038817005545286,
+      "detection_score": 164.71752171352918,
+      "final_score": 514.7175217135292
+    },
+    {
+      "threshold": 0.85,
+      "TP": 3424,
+      "TN": 7188,
+      "FP": 44,
+      "FN": 164,
+      "failure_rate": 0.01922365988909427,
+      "detection_score": 168.46525841119401,
+      "final_score": 518.465258411194
+    },
+    {
+      "threshold": 0.86,
+      "TP": 3417,
+      "TN": 7194,
+      "FP": 38,
+      "FN": 171,
+      "failure_rate": 0.019316081330868762,
+      "detection_score": 172.4453759198404,
+      "final_score": 522.4453759198404
+    },
+    {
+      "threshold": 0.87,
+      "TP": 3414,
+      "TN": 7200,
+      "FP": 32,
+      "FN": 174,
+      "failure_rate": 0.019038817005545286,
+      "detection_score": 173.23707045100716,
+      "final_score": 523.2370704510072
+    },
+    {
+      "threshold": 0.88,
+      "TP": 3410,
+      "TN": 7203,
+      "FP": 29,
+      "FN": 178,
+      "failure_rate": 0.019131238447319777,
+      "detection_score": 175.60358726394438,
+      "final_score": 525.6035872639444
+    },
+    {
+      "threshold": 0.89,
+      "TP": 3406,
+      "TN": 7208,
+      "FP": 24,
+      "FN": 182,
+      "failure_rate": 0.019038817005545286,
+      "detection_score": 177.43539300415677,
+      "final_score": 527.4353930041568
+    },
+    {
+      "threshold": 0.9,
+      "TP": 3404,
+      "TN": 7209,
+      "FP": 23,
+      "FN": 184,
+      "failure_rate": 0.019131238447319777,
+      "detection_score": 178.7391399880902,
+      "final_score": 528.7391399880902
+    },
+    {
+      "threshold": 0.91,
+      "TP": 3400,
+      "TN": 7214,
+      "FP": 18,
+      "FN": 188,
+      "failure_rate": 0.019038817005545286,
+      "detection_score": 180.55787399780397,
+      "final_score": 530.557873997804
+    },
+    {
+      "threshold": 0.92,
+      "TP": 3397,
+      "TN": 7218,
+      "FP": 14,
+      "FN": 191,
+      "failure_rate": 0.018946395563770795,
+      "detection_score": 181.8523489607974,
+      "final_score": 531.8523489607974
+    },
+    {
+      "threshold": 0.93,
+      "TP": 3395,
+      "TN": 7223,
+      "FP": 9,
+      "FN": 193,
+      "failure_rate": 0.01866913123844732,
+      "detection_score": 182.11078419338105,
+      "final_score": 532.110784193381
+    },
+    {
+      "threshold": 0.94,
+      "TP": 3387,
+      "TN": 7224,
+      "FP": 8,
+      "FN": 201,
+      "failure_rate": 0.019316081330868762,
+      "detection_score": 188.01296505587231,
+      "final_score": 538.0129650558723
+    },
+    {
+      "threshold": 0.95,
+      "TP": 3383,
+      "TN": 7227,
+      "FP": 5,
+      "FN": 205,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 190.30096389608494,
+      "final_score": 540.3009638960849
+    },
+    {
+      "threshold": 0.96,
+      "TP": 3382,
+      "TN": 7231,
+      "FP": 1,
+      "FN": 206,
+      "failure_rate": 0.019131238447319777,
+      "detection_score": 190.04733336397925,
+      "final_score": 540.0473333639793
+    },
+    {
+      "threshold": 0.97,
+      "TP": 3381,
+      "TN": 7231,
+      "FP": 1,
+      "FN": 207,
+      "failure_rate": 0.01922365988909427,
+      "detection_score": 190.80778314134324,
+      "final_score": 540.8077831413432
+    },
+    {
+      "threshold": 0.98,
+      "TP": 3379,
+      "TN": 7231,
+      "FP": 1,
+      "FN": 209,
+      "failure_rate": 0.019408502772643253,
+      "detection_score": 192.32471836490276,
+      "final_score": 542.3247183649028
+    },
+    {
+      "threshold": 0.99,
+      "TP": 3359,
+      "TN": 7232,
+      "FP": 0,
+      "FN": 229,
+      "failure_rate": 0.021164510166358595,
+      "detection_score": 206.9667833012392,
+      "final_score": 556.9667833012392
+    }
+  ]
+}
